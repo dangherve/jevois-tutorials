@@ -4,3 +4,5 @@ pkgconfig/jevois.pc
 *~
 
 !buildTools
+
+!.woodpecker
